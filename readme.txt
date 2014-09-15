@@ -19,3 +19,7 @@ Git is free software.
 3、将修改后的文件先添加，再提交
 
 --退回
+1、查看提交日志：git log [--pretty=oneline]
+2、回退：git reset --hard 编号
+3、查看文档：cat xxx.txt
+4、查看全部日志：git reflog
