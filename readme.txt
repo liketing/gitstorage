@@ -18,4 +18,4 @@ Git is free software.
 2、对比版本不同文件的内容：git diff xxx.txt
 3、将修改后的文件先添加，再提交
 
---
+--退回
