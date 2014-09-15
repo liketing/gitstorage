@@ -11,3 +11,11 @@ Git is free software.
 2、初始化，使其变成Git仓库：git init
 3、把文件添加到仓库：git add xxx.txt
 4、添加后要进行提交：git commit -m "提交说明"
+
+
+--时光机穿梭
+1、查看现在版本库状态：git status
+2、对比版本不同文件的内容：git diff xxx.txt
+3、将修改后的文件先添加，再提交
+
+--
