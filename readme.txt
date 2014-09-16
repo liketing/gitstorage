@@ -42,6 +42,9 @@ Git is free software.
 4、如果有多台计算机就配置多个key
 
 --添加远程仓库
+1、登录Github,Create a new repo.
+2、在本地仓库执行：git remote add origin git@github.com:liketing/gitstorage.git来关联仓库
+3、将本地库的master分支的内容推送到远程库：git push [-u] origin master
 
 
 
